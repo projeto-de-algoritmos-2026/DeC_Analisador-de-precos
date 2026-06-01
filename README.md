@@ -10,7 +10,7 @@
 | 23/1011800 | Rafael Welz Schadt |
 
 ## Sobre
-Descreva os objetivos do seu projeto e como ele funciona. 
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
