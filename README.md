@@ -10,10 +10,17 @@
 | 23/1011800 | Rafael Welz Schadt |
 
 ## Sobre
-
+O objetivo do Analisador de Preços é comparar preços de mercado com o preço-alvo estimado pelo usuário. O software faz uso do algoritimo "Mediana das Medianas" para verificar a mediana dos valores de forma rápida e escalável. Ao utilizar esse algoritmo, evita-se preços muito deslocados (muito altos ou muito baixos), já que a Mediana das Medianas sempre excluí extremos, evitando golpes ou preços superfaturados.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Tela de início, sem nenhum dado.
+![alt text](image.png)
+
+Informações preenchidas:
+![alt text](image-1.png)
+
+Algoritmo executado e e análise feita.
+![alt text](image-2.png)
 
 ## Instalação
 **Linguagem**: Python<br>
